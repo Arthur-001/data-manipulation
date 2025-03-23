@@ -1,5 +1,13 @@
 /Lib
 /Scripts
-/Inlcude
+/Include
+/bin
 
 pyvenv.cfg
+
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
